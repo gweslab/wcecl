@@ -9,3 +9,4 @@ This library is designed to wrap Windows CE API using Win32 functions. This allo
 # Credits
  - Created by [Yaroslav Kibysh / Dz3n](https://github.com/feel-the-dz3n)
  - Special thanks to [Stanislav Motylkov / Stas'M](https://github.com/binarymaster), who inspired me to make this.
+
