@@ -1,3 +1,11 @@
+> [!CAUTION]  
+> **WCECL is no longer maintained.** It was a fun experiment, and it exhausted itself - there is no point to continue further.
+> Thanks to all contributors and to everyone interested!
+
+> [!TIP]
+> <a href="https://cerf.cx"><img src="https://raw.githubusercontent.com/gweslab/cerf/refs/heads/main/cerf/assets/icons_sources/cerf.svg" width="128" height="128"/></a><br>
+> Meet **[CE Runtime Foundation](https://cerf.cx)** - a hardware level emulator and a successor to WCECL.
+
 # Windows CE Compatibility Layer (WCECL)
 
 ![Improvised Logo](logo.png)
